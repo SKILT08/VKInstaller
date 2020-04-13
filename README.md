@@ -1,5 +1,4 @@
-
-# Super Aleatory
+# VK Installer
 ## About
 #### Current Version 2.0
 
