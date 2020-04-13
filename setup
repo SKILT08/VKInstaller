@@ -1,0 +1,4 @@
+#! /bin/bash
+clear
+echo "Installing..."
+apt install python3.8 && chmod +x ./vkinstall && dos2unix vkinstall
